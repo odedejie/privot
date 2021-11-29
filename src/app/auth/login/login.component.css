@@ -1,0 +1,51 @@
+body{
+    background-color:#F5E8C770;
+   border: 1px solid white; 
+}
+
+.container{
+/* text-align: center;  */
+    width:350px;
+    height:300px;
+    margin: 2rem auto;
+    /* position:absolute; */
+    /* margin:-100px,0 0 -200px; */
+    /* top: 10%; */
+    /* left:20%; */
+}
+.login{
+    background-color: #4A403A;
+    width: 500px;
+    height: 300px;
+    padding-top:20px;
+    padding-left:60px;
+    border-radius: 15px;
+    /* text-align: center; */
+    /* justify-content: center; */
+}
+.ONE{
+    width:50px;
+    height:60px;
+    border:2px solid white;
+    text-align: center;
+}  
+input{
+width:400px;
+display:inline-block;
+box-sizing: border-box;
+border: 1px solid #ccc;
+margin:8px 0;
+padding:12px 20px;
+height:10px;
+}  
+label{
+text-align: left;
+}
+.three{
+    background: white;
+    text-align: center;
+}
+h4{
+    font-family: Poppins;
+    font-size: 30px;
+}
