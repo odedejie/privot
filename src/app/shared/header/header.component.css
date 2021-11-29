@@ -1,0 +1,11 @@
+.navbar-brand{
+	margin-right:40px;
+}
+.navbar{
+	border: 2px solid white;
+	border-radius: 10px 10px 10px 10px;
+	
+}
+.nav-item{
+	padding: 10px;
+} 
