@@ -12,5 +12,8 @@ form{
     color: white;
     padding: 2rem;
     height: 20rem;
-    
+}
+.login-form {
+    padding: 20px 30px;
+
 }
