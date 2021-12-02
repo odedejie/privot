@@ -1,5 +1,5 @@
 .navbar-brand{
-	margin: right 5px;
+	margin: right 10px;
 }
 .navbar{
 	border-radius: 30px;
@@ -7,6 +7,9 @@
 	width: 90%;
 	margin:auto;
 	margin-top: 1rem;
+	text-decoration: Poppins;
+	font-size: 16px;
+    font-weight: bold;
 	
 }
 .nav-item{
