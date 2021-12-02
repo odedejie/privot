@@ -1,0 +1,23 @@
+.navbar-brand{
+	margin: right 10px;
+}
+.navbar{
+	border-radius: 30px;
+	color: #EFEFEF;
+	width: 90%;
+	margin:auto;
+	margin-top: 1rem;
+	text-decoration: Poppins;
+	font-size: 16px;
+    font-weight: bold;
+	
+}
+.nav-item{
+	padding: 10px;
+	text-decoration: Poppins;
+	font-size: 16px;
+    font-weight: bold;
+} 
+.navmargin{
+	margin-top: -8px;
+}

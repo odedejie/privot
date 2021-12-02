@@ -1,0 +1,49 @@
+
+/* .jumbotron{
+    background-color:w; 
+} */
+.btn1{
+	margin-top: 25px;
+	margin-right: 50px;
+	text-decoration: Poppins;
+	background-color: rgba(170,28,91,1);
+    border: 2px solid #AA1C5B;
+    margin-bottom: 50px;
+    padding: 0.5rem 8rem;
+    width: 30%;
+    margin-left: 80px;
+    text-decoration: Poppins;
+     border-radius: 1rem;
+    margin-top: 1rem;
+}
+.btn2{
+     margin-top: 25px;
+	text-decoration: Poppins;
+	background-color:#AA1C5B;
+    border: 2px solid #AA1C5B;
+    margin-bottom: 50px;
+    
+}
+
+.display-4{
+    font-weight: 80%;
+    font-style: regular;
+    font-size: 66px;
+    vertical-align: top;
+    align-content: center;
+    position: relative;
+    text-decoration: Poppins;
+    line-height: 100%;
+    word-spacing: 20%;
+    
+    
+}
+.downd{
+    margin: 2rem auto;
+    margin-right: 57%;
+    margin-left: 20%;
+    font-weight: 20%;
+    text-decoration: Poppins;
+    font-size: 20px;
+    
+}
