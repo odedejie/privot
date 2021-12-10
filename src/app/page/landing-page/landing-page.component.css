@@ -51,8 +51,8 @@
     
 }
 .downd{
-    margin: 2rem auto;
-    font-size: 32px;
+    margin-left:50px;
+    font-size: 25px;
     font-weight: 300;
     text-decoration: Poppins;
     font-style: regular;
@@ -62,4 +62,37 @@
     word-spacing: 2px;
     
     
+}
+.featurette{
+    background-color:white;
+    padding:10px;
+    margin-bottom:4rem;
+}
+.col-md-7{
+   padding: 50px;;
+}
+.privy{
+    font-size: 55px;
+    color: #AA1C5B;
+    margin-right:5px;
+    margin-left:30px;
+}
+.lead{
+
+    margin-top:20px;
+}
+.pheading{
+    font-weight:80% ; 
+    font-size: 55px;
+    color:#AA1C5B ;
+}
+.card-header{
+    background-color: #AA1C5B; 
+    border: 2px solid #AA1C5B;
+} 
+
+
+.btnprice{
+    background-color: #AA1C5B;
+    border: 2px solid #AA1C5B;
 }
