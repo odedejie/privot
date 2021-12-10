@@ -5,12 +5,14 @@ import { SharedModule } from '../shared/shared.module';
 import { PageRoutingModule } from './page-routing.module';
 import { PageComponent } from './page.component';
 import { LandingPageComponent } from './landing-page/landing-page.component';
+import { DashboardComponent } from './dashboard/dashboard.component';
 
 
 @NgModule({
   declarations: [
     PageComponent,
-    LandingPageComponent
+    LandingPageComponent,
+    DashboardComponent
   ],
   imports: [
     CommonModule,

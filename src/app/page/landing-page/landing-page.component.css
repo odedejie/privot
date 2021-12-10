@@ -17,33 +17,49 @@
     margin-top: 1rem;
 }
 .btn2{
-     margin-top: 25px;
+   
+
+    margin-top: 25px;
+	margin-right: 50px;
 	text-decoration: Poppins;
-	background-color:#AA1C5B;
+	background-color: rgba(170,28,91,1);
     border: 2px solid #AA1C5B;
     margin-bottom: 50px;
+    padding: 0.5rem 8rem;
+    width: 30%;
+    margin-left: 80px;
+    text-decoration: Poppins;
+     border-radius: 1rem;
+    margin-top: 1rem;
     
 }
 
 .display-4{
     font-weight: 80%;
     font-style: regular;
-    font-size: 66px;
+    font-size: 55px;
     vertical-align: top;
     align-content: center;
     position: relative;
     text-decoration: Poppins;
     line-height: 100%;
-    word-spacing: 20%;
+    word-spacing: 10px;
+    padding: 10px 50px;
+
+    
     
     
 }
 .downd{
     margin: 2rem auto;
-    margin-right: 57%;
-    margin-left: 20%;
-    font-weight: 20%;
+    font-size: 32px;
+    font-weight: 300;
     text-decoration: Poppins;
-    font-size: 20px;
+    font-style: regular;
+    line-height: 150%;
+    word-spacing: 20%;
+    vertical-align: top;
+    word-spacing: 2px;
+    
     
 }
