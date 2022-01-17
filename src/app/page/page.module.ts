@@ -6,13 +6,15 @@ import { PageRoutingModule } from './page-routing.module';
 import { PageComponent } from './page.component';
 import { LandingPageComponent } from './landing-page/landing-page.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
+import { PrivotDashboardComponent } from './privot-dashboard/privot-dashboard.component';
 
 
 @NgModule({
   declarations: [
     PageComponent,
     LandingPageComponent,
-    DashboardComponent
+    DashboardComponent,
+    PrivotDashboardComponent
   ],
   imports: [
     CommonModule,
