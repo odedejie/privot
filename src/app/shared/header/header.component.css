@@ -21,3 +21,8 @@
 .navmargin{
 	margin-top: -8px;
 }
+.nav-link:hover{
+	background-color:#AA1C5B;
+	color:white;
+	border-radius:10px;
+}
