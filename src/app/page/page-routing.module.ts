@@ -10,7 +10,7 @@ const routes: Routes = [
     component: PageComponent,
     children: [
       {path: '', component: LandingPageComponent},
-      {path: '', component: PrivotDashboardComponent},
+      {path: 'privot-dashboard', component: PrivotDashboardComponent},
     ]
   }
 ];
