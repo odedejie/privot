@@ -9,7 +9,7 @@ ul {
 	position: relative;
 	color: black;
 	z-index: 100;
-	background: #F5E8C7;
+	background: rgba(245, 232, 199, 0.54);
 	word-break: break-all;
 	word-wrap: break-word; 
 }
@@ -31,7 +31,7 @@ ul {
 }
 .ftr_logo {
     float: left;
-    padding: 15px 46px 0 0;
+    padding: 10px 36px 0 0;
 }
 .ftr_logo a img {
     transition: all 0.4s ease-in-out 0s;
