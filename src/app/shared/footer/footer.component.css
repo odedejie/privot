@@ -41,3 +41,9 @@ img {
     color: blanchedalmond;
     padding: 5px;
 }
+.fa {
+    clip-path: circle();
+    outline: none;
+    padding: 10px;
+    overflow-x: wrap;
+}
